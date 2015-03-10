@@ -1,0 +1,48 @@
+﻿|11836|Carlos Rodrigues Pereira|0|0|
+|19048|Carla Maria Gil Belo|0|0|
+|19943|Pedro Manuel Major Pereira Rego|0|0|
+|20199|Samuel Alexandre Miguens Reis Pereira|0|0|
+|24423|Ana Raquel Rodrigues da Silva|0|0|
+|24538|Marta Isabel Cruz Fernandes|0|0|
+|24717|David António Dias Viegas|0|0|
+|24718|André Filipe Oliveira Aguiar|0|0|
+|26093|Nuno Jorge Gouveia Patrício Miguel|0|0|
+|26691|José António Vieira Matos|0|0|
+|26854|Rúben Miguel Correia de Sousa|0|0|
+|27447|Filipe Alexandre Pereira Jorge|0|0|
+|29388|Marisa Cunha Jorge|0|0|
+|29481|João Miguel de Carvalho da Conceição Pereira|0|0|
+|29621|David Manuel Brazuna Tavares Gomes|1|0|
+|30808|João Andre César de Matos Dias|0|0|
+|31107|Tiago Alexandre Rodrigues Sousa|0|0|
+|33119|Ricardo Jorge Pires Araújo|0|0|
+|33782|Ricardo Filipe Alves Pereira|0|0|
+|35392|João Paulo Silva Rodrigues|0|0|
+|35424|André Nuno da Costa dos Santos Reis|0|0|
+|35436|Ricardo Jorge da Conceicao Figueiredo|0|0|
+|35466|Nick Nery Laert|0|0|
+|36852|José Filipe Lopes Soares|1|10|
+|36904|Guilherme de Almeida Nogueira Pereira|0|0|
+|36932|Sérgio Filipe Raimundo Moutinho Afonso Esteves|0|0|
+|37330|Hugo Filipe Sá Viana Barrocas|0|0|
+|37686|Cristian Clefos|0|0|
+|37692|Jorge Alexandre Leandro Mira|0|0|
+|37809|Luís Daniel de Matos Canete|0|0|
+|38209|Pedro Gabriel Pita de Almeida|0|0|
+|38484|Victor Afonso Camargo|1|10|
+|38511|João Miguel dos Santos Caetano|0|0|
+|39197|Daniela Filipa Garcia de Almeida|0|0|
+|39246|Pedro Miguel de Sousa Silva|0|0|
+|39250|Carlos Miguel Vital Florêncio|0|0|
+|39252|Tiago Calixto Pires Pedreira Cardoso|0|0|
+|39333|Pedro Miguel Cerqueira Perestrelo Santana|0|0|
+|39612|Hugo José Ribeiros do Pilar|0|0|
+|39618|Bruno Miguel Albano Costa|0|0|
+|40308|Paulo Alexandre Rodrigues Fonseca|0|0|
+|40533|Carlos Jorge Cotrim Morgado|0|0|
+|40838|Luis Miguel Da Cunha E Sousa|0|0|
+|40909|Daniel Alberto Lopes Dias Rosa|0|0|
+|40911|Daniel Henriques Miranda|0|0|
+|40916|Nuno Miguel Fraga Pereira|1|0|
+|40921|Sónia Maria Abrantes Reis|0|0|
+|41661|Pedro de Sousa Silva Lopes Parreira|0|0|
