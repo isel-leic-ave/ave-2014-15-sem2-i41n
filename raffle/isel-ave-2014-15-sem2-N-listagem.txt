@@ -1,11 +1,11 @@
 ﻿|11836|Carlos Rodrigues Pereira|0|0|
 |19048|Carla Maria Gil Belo|0|0|
 |19943|Pedro Manuel Major Pereira Rego|0|0|
-|20199|Samuel Alexandre Miguens Reis Pereira|0|0|
+|20199|Samuel Alexandre Miguens Reis Pereira|1|10|
 |24423|Ana Raquel Rodrigues da Silva|0|0|
 |24538|Marta Isabel Cruz Fernandes|0|0|
 |24717|David António Dias Viegas|0|0|
-|24718|André Filipe Oliveira Aguiar|0|0|
+|24718|André Filipe Oliveira Aguiar|1|0|
 |26093|Nuno Jorge Gouveia Patrício Miguel|0|0|
 |26691|José António Vieira Matos|0|0|
 |26854|Rúben Miguel Correia de Sousa|0|0|
