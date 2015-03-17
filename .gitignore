@@ -1,3 +1,7 @@
+// java
+*.class
+
+// 
 *.exe
 *.obj
 *.dll
