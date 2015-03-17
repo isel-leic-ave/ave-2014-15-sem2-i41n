@@ -3,7 +3,7 @@
 |19943|Pedro Manuel Major Pereira Rego|0|0|
 |20199|Samuel Alexandre Miguens Reis Pereira|1|10|
 |24423|Ana Raquel Rodrigues da Silva|0|0|
-|24538|Marta Isabel Cruz Fernandes|0|0|
+|24538|Marta Isabel Cruz Fernandes|1|0|
 |24717|David António Dias Viegas|0|0|
 |24718|André Filipe Oliveira Aguiar|1|0|
 |26093|Nuno Jorge Gouveia Patrício Miguel|0|0|
@@ -32,9 +32,9 @@
 |38484|Victor Afonso Camargo|1|10|
 |38511|João Miguel dos Santos Caetano|0|0|
 |39197|Daniela Filipa Garcia de Almeida|0|0|
-|39246|Pedro Miguel de Sousa Silva|0|0|
+|39246|Pedro Miguel de Sousa Silva|1|10|
 |39250|Carlos Miguel Vital Florêncio|0|0|
-|39252|Tiago Calixto Pires Pedreira Cardoso|0|0|
+|39252|Tiago Calixto Pires Pedreira Cardoso|1|10|
 |39333|Pedro Miguel Cerqueira Perestrelo Santana|0|0|
 |39612|Hugo José Ribeiros do Pilar|0|0|
 |39618|Bruno Miguel Albano Costa|0|0|
