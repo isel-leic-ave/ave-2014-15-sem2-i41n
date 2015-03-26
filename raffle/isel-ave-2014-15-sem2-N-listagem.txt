@@ -24,6 +24,7 @@
 |36852|José Filipe Lopes Soares|1|10|
 |36904|Guilherme de Almeida Nogueira Pereira|0|0|
 |36932|Sérgio Filipe Raimundo Moutinho Afonso Esteves|0|0|
+|37323|Ricardo José Lopes Gonçalves|0|0|
 |37330|Hugo Filipe Sá Viana Barrocas|1|0|
 |37686|Cristian Clefos|0|0|
 |37692|Jorge Alexandre Leandro Mira|1|0|
