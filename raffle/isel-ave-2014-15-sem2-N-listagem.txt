@@ -22,13 +22,13 @@
 |35436|Ricardo Jorge da Conceicao Figueiredo|0|0|
 |35466|Nick Nery Laert|1|0|
 |36852|José Filipe Lopes Soares|1|10|
-|36904|Guilherme de Almeida Nogueira Pereira|0|0|
-|36932|Sérgio Filipe Raimundo Moutinho Afonso Esteves|0|0|
+|36904|Guilherme de Almeida Nogueira Pereira|1|0|
+|36932|Sérgio Filipe Raimundo Moutinho Afonso Esteves|1|10|
 |37323|Ricardo José Lopes Gonçalves|0|0|
 |37330|Hugo Filipe Sá Viana Barrocas|1|0|
 |37686|Cristian Clefos|0|0|
 |37692|Jorge Alexandre Leandro Mira|1|0|
-|37809|Luís Daniel de Matos Canete|0|0|
+|37809|Luís Daniel de Matos Canete|1|0|
 |38209|Pedro Gabriel Pita de Almeida|0|0|
 |38484|Victor Afonso Camargo|1|10|
 |38511|João Miguel dos Santos Caetano|1|10|
@@ -42,7 +42,7 @@
 |40308|Paulo Alexandre Rodrigues Fonseca|0|0|
 |40533|Carlos Jorge Cotrim Morgado|0|0|
 |40838|Luis Miguel Da Cunha E Sousa|1|0|
-|40909|Daniel Alberto Lopes Dias Rosa|0|0|
+|40909|Daniel Alberto Lopes Dias Rosa|1|10|
 |40911|Daniel Henriques Miranda|0|0|
 |40916|Nuno Miguel Fraga Pereira|1|0|
 |40921|Sónia Maria Abrantes Reis|0|0|
