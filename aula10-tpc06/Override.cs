@@ -9,7 +9,7 @@ class B : A {
 }
 
 class C : B {
-	public virtual void M() { Console.WriteLine("C"); }
+	public new virtual void M() { Console.WriteLine("C"); }
 }
 
 class Program {
@@ -17,5 +17,7 @@ class Program {
 		A a = new C();
 		a.M();       
 		((B)a).M();
+		
+		((C)a).M();
 	}
 }
