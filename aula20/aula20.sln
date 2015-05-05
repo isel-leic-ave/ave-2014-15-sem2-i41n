@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpc-11", "tpc-11\tpc-11.csproj", "{1D9A337E-0C8F-4135-8D69-7AC4E4DE69F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailManager", "MailManager\MailManager.csproj", "{B3AC657E-7E0B-4B4A-A015-627395B7645E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstEvent", "FirstEvent\FirstEvent.csproj", "{A1D8AAAA-29C2-45DC-8995-3298C3C9DA93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D9A337E-0C8F-4135-8D69-7AC4E4DE69F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9A337E-0C8F-4135-8D69-7AC4E4DE69F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9A337E-0C8F-4135-8D69-7AC4E4DE69F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9A337E-0C8F-4135-8D69-7AC4E4DE69F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3AC657E-7E0B-4B4A-A015-627395B7645E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AC657E-7E0B-4B4A-A015-627395B7645E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AC657E-7E0B-4B4A-A015-627395B7645E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AC657E-7E0B-4B4A-A015-627395B7645E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D8AAAA-29C2-45DC-8995-3298C3C9DA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D8AAAA-29C2-45DC-8995-3298C3C9DA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D8AAAA-29C2-45DC-8995-3298C3C9DA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D8AAAA-29C2-45DC-8995-3298C3C9DA93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
