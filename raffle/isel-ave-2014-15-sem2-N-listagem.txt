@@ -40,7 +40,7 @@
 |39612|Hugo José Ribeiros do Pilar|1|0|
 |39618|Bruno Miguel Albano Costa|1|10|
 |40308|Paulo Alexandre Rodrigues Fonseca|1|0|
-|40533|Carlos Jorge Cotrim Morgado|0|0|
+|40533|Carlos Jorge Cotrim Morgado|1|10|
 |40838|Luis Miguel Da Cunha E Sousa|1|0|
 |40909|Daniel Alberto Lopes Dias Rosa|1|10|
 |40911|Daniel Henriques Miranda|1|0|
