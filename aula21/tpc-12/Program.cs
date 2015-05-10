@@ -17,9 +17,9 @@ namespace tpc_12
 
         public static void Main()
         {
-            OtherAction o = SomeAction;
+            OtherAction o = new OtherAction(SomeAction);
             DoAction(SomeAction, 10);
-            DoAction(o, 10);
+            //DoAction(o, 10);
 
             Action a0 = delegate(int x) { Console.Beep(2000, x); };
             Action a1 = SomeAction;
