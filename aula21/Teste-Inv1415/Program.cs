@@ -51,12 +51,12 @@ namespace Teste_Inv1415
 
         public class Alinea4
         {
-            static public String FormatProps(Student s)
+            static public String FormatProps(Object obj)
             {
                 String format = "{";
-                Type t = s.GetType();
-                PropertyInfo[] pis = t.GetProperties();
-                foreach (PropertyInfo pi in pis)
+                Type t = obj.GetType();
+                PropertyInfo[] pubProperties = t.GetProperties();
+                foreach (PropertyInfo pi in pubProperties)
                 {
                     FormatterAttibute attr = (FormatterAttibute)
                         Attribute.GetCustomAttribute(pi, typeof(FormatterAttibute));
