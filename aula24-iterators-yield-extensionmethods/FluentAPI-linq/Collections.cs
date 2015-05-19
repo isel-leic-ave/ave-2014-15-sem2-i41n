@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace GenericAlgorithms_Iterators
+namespace FluentAPI_linq
 {
     static class Collections
     {
@@ -47,22 +47,4 @@ namespace GenericAlgorithms_Iterators
         }
     }
 
-
-
-    static class CollectionsLazyIterators
-    {
-        public static IEnumerable<R> Select<T,R>(IEnumerable<T> input, Func<T, R> projection)
-        {
-            return new SelectEnumerable<T,R>(input, projection);
-        }
-
-        public static void ForEach<T>(IEnumerable<T> input, Action<T> action)
-        {
-            foreach (T t in input)
-            {
-                action(t);
-            }
-        }
-
-    }
 }

@@ -56,6 +56,20 @@ namespace GenericAlgorithms_Iterators
             v1();
 
             v2();
+
+            List<int> l = new List<int>();
+            l.Add(1); l.Add(2); l.Add(30);
+            
+            IEnumerable<string> output = new SelectEnumerable<int, String>(
+                l, 
+                x => "\"" + x + "\"");
+            
+            foreach (String s in output)
+            {
+                Console.WriteLine("Value is {0} type is {1}", s, s.GetType());
+            }
+
+
         }
     }
 }

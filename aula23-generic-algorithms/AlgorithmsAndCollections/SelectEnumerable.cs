@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using AlgorithmsAndCollections;
 
-namespace AlgorithmsAndCollections
+namespace GenericAlgorithms_Iterators
 {
     class SelectEnumerable<T, R> : IEnumerable<R>
     {
