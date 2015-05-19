@@ -1,4 +1,4 @@
-﻿|11836|Carlos Rodrigues Pereira|2|10|
+﻿|11836|Carlos Rodrigues Pereira|1|10|
 |19048|Carla Maria Gil Belo|2|0|
 |19943|Pedro Manuel Major Pereira Rego|2|0|
 |20199|Samuel Alexandre Miguens Reis Pereira|1|10|
@@ -15,13 +15,13 @@
 |29621|David Manuel Brazuna Tavares Gomes|2|0|
 |30808|João Andre César de Matos Dias|2|0|
 |31107|Tiago Alexandre Rodrigues Sousa|2|0|
-|33119|Ricardo Jorge Pires Araújo|2|10|
+|33119|Ricardo Jorge Pires Araújo|1|10|
 |33782|Ricardo Filipe Alves Pereira|2|10|
 |35392|João Paulo Silva Rodrigues|2|0|
 |35424|André Nuno da Costa dos Santos Reis|2|0|
 |35436|Ricardo Jorge da Conceicao Figueiredo|2|0|
 |35466|Nick Nery Laert|2|0|
-|36852|José Filipe Lopes Soares|2|10|
+|36852|José Filipe Lopes Soares|1|10|
 |36904|Guilherme de Almeida Nogueira Pereira|2|0|
 |36932|Sérgio Filipe Raimundo Moutinho Afonso Esteves|2|20|
 |37323|Ricardo José Lopes Gonçalves|2|0|
@@ -30,8 +30,8 @@
 |37692|Jorge Alexandre Leandro Mira|2|0|
 |37809|Luís Daniel de Matos Canete|2|0|
 |38209|Pedro Gabriel Pita de Almeida|2|0|
-|38484|Victor Afonso Camargo|2|20|
-|38511|João Miguel dos Santos Caetano|2|10|
+|38484|Victor Afonso Camargo|1|10|
+|38511|João Miguel dos Santos Caetano|1|10|
 |39197|Daniela Filipa Garcia de Almeida|1|10|
 |39246|Pedro Miguel de Sousa Silva|2|10|
 |39250|Carlos Miguel Vital Florêncio|2|0|
