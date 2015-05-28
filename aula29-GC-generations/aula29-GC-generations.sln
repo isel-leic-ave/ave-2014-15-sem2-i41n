@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.GC-Generations", "GCMethods\1.GC-Generations.csproj", "{CF832269-F57C-4277-9E03-819CC25C3893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Finalization-internals", "Finalization\3.Finalization-internals.csproj", "{30B2583B-D2FF-420A-9E66-B6E8A6CB5D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.GCBeep", "GCBeep\2.GCBeep.csproj", "{61E6321B-BBD3-47A6-A7B1-F0DDD8D85BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF832269-F57C-4277-9E03-819CC25C3893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF832269-F57C-4277-9E03-819CC25C3893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF832269-F57C-4277-9E03-819CC25C3893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF832269-F57C-4277-9E03-819CC25C3893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B2583B-D2FF-420A-9E66-B6E8A6CB5D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B2583B-D2FF-420A-9E66-B6E8A6CB5D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B2583B-D2FF-420A-9E66-B6E8A6CB5D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B2583B-D2FF-420A-9E66-B6E8A6CB5D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E6321B-BBD3-47A6-A7B1-F0DDD8D85BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E6321B-BBD3-47A6-A7B1-F0DDD8D85BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E6321B-BBD3-47A6-A7B1-F0DDD8D85BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E6321B-BBD3-47A6-A7B1-F0DDD8D85BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
