@@ -1,7 +1,7 @@
 ﻿|11836|Carlos Rodrigues Pereira|2|10|
 |19048|Carla Maria Gil Belo|2|0|
 |19943|Pedro Manuel Major Pereira Rego|2|0|
-|20199|Samuel Alexandre Miguens Reis Pereira|1|10|
+|20199|Samuel Alexandre Miguens Reis Pereira|2|10|
 |24423|Ana Raquel Rodrigues da Silva|2|0|
 |24538|Marta Isabel Cruz Fernandes|2|0|
 |24717|David António Dias Viegas|2|0|
@@ -32,20 +32,20 @@
 |38209|Pedro Gabriel Pita de Almeida|2|0|
 |38484|Victor Afonso Camargo|2|20|
 |38511|João Miguel dos Santos Caetano|2|10|
-|39197|Daniela Filipa Garcia de Almeida|1|10|
+|39197|Daniela Filipa Garcia de Almeida|2|10|
 |39246|Pedro Miguel de Sousa Silva|2|10|
 |39250|Carlos Miguel Vital Florêncio|2|0|
-|39252|Tiago Calixto Pires Pedreira Cardoso|1|10|
+|39252|Tiago Calixto Pires Pedreira Cardoso|2|10|
 |39333|Pedro Miguel Cerqueira Perestrelo Santana|1|10|
 |39612|Hugo José Ribeiros do Pilar|2|0|
 |39618|Bruno Miguel Albano Costa|2|10|
 |40308|Paulo Alexandre Rodrigues Fonseca|2|0|
-|40533|Carlos Jorge Cotrim Morgado|1|10|
+|40533|Carlos Jorge Cotrim Morgado|2|10|
 |40838|Luis Miguel Da Cunha E Sousa|2|0|
-|40909|Daniel Alberto Lopes Dias Rosa|1|10|
+|40909|Daniel Alberto Lopes Dias Rosa|2|20|
 |40911|Daniel Henriques Miranda|2|0|
 |40916|Nuno Miguel Fraga Pereira|2|0|
-|40921|Sónia Maria Abrantes Reis|1|10|
+|40921|Sónia Maria Abrantes Reis|1|20|
 |41661|Pedro de Sousa Silva Lopes Parreira|2|0|
 |40564|Nuno Reis|2|0|
 |36929|Jorge Oliveira|2|0|
