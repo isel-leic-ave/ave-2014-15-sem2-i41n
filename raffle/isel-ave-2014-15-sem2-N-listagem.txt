@@ -1,51 +1,51 @@
 ﻿|11836|Carlos Rodrigues Pereira|2|10|
 |19048|Carla Maria Gil Belo|2|0|
-|19943|Pedro Manuel Major Pereira Rego|2|0|
+|19943|Pedro Manuel Major Pereira Rego|3|10|
 |20199|Samuel Alexandre Miguens Reis Pereira|2|10|
-|24423|Ana Raquel Rodrigues da Silva|2|0|
-|24538|Marta Isabel Cruz Fernandes|2|0|
+|24423|Ana Raquel Rodrigues da Silva|3|0|
+|24538|Marta Isabel Cruz Fernandes|3|0|
 |24717|David António Dias Viegas|2|0|
-|24718|André Filipe Oliveira Aguiar|2|0|
-|26093|Nuno Jorge Gouveia Patrício Miguel|2|0|
-|26691|José António Vieira Matos|2|0|
-|26854|Rúben Miguel Correia de Sousa|2|0|
-|27447|Filipe Alexandre Pereira Jorge|2|0|
-|29388|Marisa Cunha Jorge|2|0|
-|29481|João Miguel de Carvalho da Conceição Pereira|2|0|
-|29621|David Manuel Brazuna Tavares Gomes|2|0|
-|30808|João Andre César de Matos Dias|2|0|
-|31107|Tiago Alexandre Rodrigues Sousa|2|0|
+|24718|André Filipe Oliveira Aguiar|3|0|
+|26093|Nuno Jorge Gouveia Patrício Miguel|3|0|
+|26691|José António Vieira Matos|3|0|
+|26854|Rúben Miguel Correia de Sousa|3|0|
+|27447|Filipe Alexandre Pereira Jorge|3|0|
+|29388|Marisa Cunha Jorge|3|0|
+|29481|João Miguel de Carvalho da Conceição Pereira|3|0|
+|29621|David Manuel Brazuna Tavares Gomes|3|0|
+|30808|João Andre César de Matos Dias|3|0|
+|31107|Tiago Alexandre Rodrigues Sousa|3|0|
 |33119|Ricardo Jorge Pires Araújo|2|10|
 |33782|Ricardo Filipe Alves Pereira|2|10|
-|35392|João Paulo Silva Rodrigues|2|0|
+|35392|João Paulo Silva Rodrigues|3|0|
 |35424|André Nuno da Costa dos Santos Reis|2|0|
-|35436|Ricardo Jorge da Conceicao Figueiredo|2|0|
-|35466|Nick Nery Laert|2|0|
+|35436|Ricardo Jorge da Conceicao Figueiredo|3|0|
+|35466|Nick Nery Laert|3|0|
 |36852|José Filipe Lopes Soares|2|10|
-|36904|Guilherme de Almeida Nogueira Pereira|2|0|
+|36904|Guilherme de Almeida Nogueira Pereira|3|0|
 |36932|Sérgio Filipe Raimundo Moutinho Afonso Esteves|2|20|
-|37323|Ricardo José Lopes Gonçalves|2|0|
-|37330|Hugo Filipe Sá Viana Barrocas|2|0|
-|37686|Cristian Clefos|2|0|
-|37692|Jorge Alexandre Leandro Mira|2|0|
+|37323|Ricardo José Lopes Gonçalves|3|0|
+|37330|Hugo Filipe Sá Viana Barrocas|3|0|
+|37686|Cristian Clefos|3|0|
+|37692|Jorge Alexandre Leandro Mira|3|0|
 |37809|Luís Daniel de Matos Canete|2|0|
-|38209|Pedro Gabriel Pita de Almeida|2|0|
+|38209|Pedro Gabriel Pita de Almeida|3|0|
 |38484|Victor Afonso Camargo|2|20|
 |38511|João Miguel dos Santos Caetano|2|10|
 |39197|Daniela Filipa Garcia de Almeida|2|10|
 |39246|Pedro Miguel de Sousa Silva|2|10|
-|39250|Carlos Miguel Vital Florêncio|2|0|
+|39250|Carlos Miguel Vital Florêncio|3|0|
 |39252|Tiago Calixto Pires Pedreira Cardoso|2|10|
-|39333|Pedro Miguel Cerqueira Perestrelo Santana|1|10|
-|39612|Hugo José Ribeiros do Pilar|2|0|
+|39333|Pedro Miguel Cerqueira Perestrelo Santana|2|10|
+|39612|Hugo José Ribeiros do Pilar|3|10|
 |39618|Bruno Miguel Albano Costa|2|10|
 |40308|Paulo Alexandre Rodrigues Fonseca|2|0|
 |40533|Carlos Jorge Cotrim Morgado|2|10|
 |40838|Luis Miguel Da Cunha E Sousa|2|0|
 |40909|Daniel Alberto Lopes Dias Rosa|2|20|
-|40911|Daniel Henriques Miranda|2|0|
-|40916|Nuno Miguel Fraga Pereira|2|0|
-|40921|Sónia Maria Abrantes Reis|1|20|
-|41661|Pedro de Sousa Silva Lopes Parreira|2|0|
+|40911|Daniel Henriques Miranda|3|0|
+|40916|Nuno Miguel Fraga Pereira|3|10|
+|40921|Sónia Maria Abrantes Reis|3|20|
+|41661|Pedro de Sousa Silva Lopes Parreira|3|0|
 |40564|Nuno Reis|2|0|
-|36929|Jorge Oliveira|2|0|
+|36929|Jorge Oliveira|3|0|
