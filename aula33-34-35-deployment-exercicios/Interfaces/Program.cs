@@ -16,7 +16,6 @@ namespace Interfaces
     class B : A { public virtual void M() { Console.Write("B"); } }
     
     class C : B {
-        void I.M() { Console.WriteLine("I.C"); }
         public void M() { Console.Write("C"); } 
     }
 
