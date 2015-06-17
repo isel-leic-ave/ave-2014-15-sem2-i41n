@@ -20,9 +20,7 @@ namespace Iterators
             return false;
         }
 
-
-
-
+        
         public static IEnumerable<T> Distinct<T>(this IEnumerable<T> source)
         {
             List<T> history = new List<T>();
@@ -36,14 +34,7 @@ namespace Iterators
             }
         }
 
-
-
-
-
-
-
-
-
+        
         public static IEnumerable<T> Intersect<T>(this IEnumerable<T> first, IEnumerable<T> second)
         {
             /*
